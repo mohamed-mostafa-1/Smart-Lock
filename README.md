@@ -72,6 +72,6 @@ The ESP-01S firmware is programmed to:
 ## 👤 Developed By
 
 Mohamed Mostafa  
-**IoT Developer | Embedded Systems Engineer**
+**IoT Engineer**
 
 ---
