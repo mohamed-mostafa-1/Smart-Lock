@@ -8,7 +8,7 @@ The **Smart Door Lock** is an IoT-based access control system that provides both
 
 | Smart Door Lock Circuit | Prototype (OFF) | Prototype (ON) |
 |--------------------------|------------------|-----------------|
-| ![Circuit](images/Circuit.jpg) | ![Prototype OFF](images/Prototype_OFF.jpg) | ![Prototype ON](images/Prototype_ON.jpg) |
+| ![Circuit](images/Circuit.png) | ![Prototype OFF](images/Prototype_OFF.jpg) | ![Prototype ON](images/Prototype_ON.jpg) |
 
 
 ---
